@@ -16,7 +16,7 @@ Django Port of Hydrus
 Documentation
 -------------
 
-The full documentation is at https://django-rest-hydra.readthedocs.io.
+Full documentation can be found at https://django-rest-hydra.readthedocs.io.
 
 Quickstart
 ----------
